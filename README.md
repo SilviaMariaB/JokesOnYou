@@ -1,5 +1,6 @@
 # JokesOnYou
 Creating a website that gives the user a joke based on their name.
+The project is created using "https://v2.jokeapi.dev/joke" API.
 First we have the homepage.
 
 ![homepage](https://github.com/user-attachments/assets/24ed5f0e-028b-4438-9b95-5c89ba640cd5)
