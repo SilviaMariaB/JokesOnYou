@@ -1,0 +1,37 @@
+body {
+  min-height: 100vh;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(46,113,96,1) 48%, rgba(0,212,255,1) 100%);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 200px;
+  padding-bottom: 2rem;
+  box-sizing: border-box;
+}
+h1 {
+  color:darkorange;
+  font-family: "Gloria Hallelujah", cursive;
+  margin-bottom: 20px;
+}
+
+h2, h3, .nameLabel{
+  color: aliceblue;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 100;
+}
+
+.getJokeButton{
+  color: aliceblue;
+  background-color: darkorange;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 100;
+}
+
+strong {
+  color:darkorange;
+  font-family: "Gloria Hallelujah", cursive;
+  margin-bottom: 20px;
+}
